@@ -1,0 +1,312 @@
+{
+    "cookies": {
+      "text": "We use cookies to improve your experience. Do you accept or decline?",
+      "accept": "Accept",
+      "decline": "Decline"
+    },
+    "header": {
+      "home": "Home",
+      "alternative_investment": "Alternative Investments",
+      "family_partners": "Family Partners",
+      "about_us": "About Us",
+      "news": "News",
+      "login": "Log in",
+      "join_us": "Join us",
+      "contact": "Contact"
+    },
+    "homepage": {
+      "logo_animation": {
+        "line1": "unusual actions or achievements,",
+        "line2": "far greater than expected"
+      },
+      "who_are_we": {
+        "title": "Who Are We?",
+        "description1": "Welcome to {{company}}, the investment firm that redefines smart asset management in Luxembourg since 2023. Our mission is clear: to foster capital growth for our investors through an innovative management approach that transcends market norms.",
+        "description2": "At Heroics, we envision the future of discretionary management & advisory services 3.0, where digital tools drive efficiency and reshape traditional paradigms. Join our exclusive partner club—a community of visionary entrepreneurs committed to mutual enrichment and sustainable growth.",
+        "description3": "Our commitment to investors is not just about managing assets; it's about breathing life into our strategies, passionately pursuing results and continuous improvement."
+      }
+    },
+    "quotes": {
+      "vision": {
+        "title": "A Vision",
+        "text": "Discretionary management and Advisory 3.0 will revolutionize the industry, surpassing traditional companies."
+      },
+      "mission": {
+        "title": "A Mission",
+        "text": "We drive capital growth for our investors through innovative management methods, delivering performance that is independent of market fluctuations."
+      },
+      "ambition": {
+        "title": "An Ambition",
+        "text": "Our goal is to build a win-win partners club, a unique circle of passionate entrepreneurs who inspire and support each other in achieving collective success."
+      },
+      "investment_solutions": {
+        "title": "Investment Solutions",
+        "description": "Heroics Capital offers a range of products and services to meet the needs of its professional and institutional clients:",
+        "solutions1": "Alternative Investment Funds",
+        "solutions1body": "Leveraging liquid and innovative financial instruments to diversify and enhance portfolio performance.\n ",
+        "solutions2": "Dedicated Funds",
+        "solutions2body": "Offering specialized investment vehicles focused on specific asset classes or market niches.",
+        "solutions3": "Managed Certificates",
+        "solutions3body": "Creating structured financial products designed to achieve specific investment objectives.",
+        "solutions4": "Discretionary Portfolio Management",
+        "solutions4body": "Providing bespoke investment strategies tailored to individual risk profiles and financial goals.",
+        "solutions5": "Tailored Advisory Management",
+        "solutions5body": "Delivering personalized financial advice and investment solutions to meet unique client needs."
+      }
+    },
+    "whoarewe":{
+        "title": "Who are we ?",
+        "pres1": "Welcome to Heroics Capital",
+        "pres1body":"The investment firm that redefines smart asset management in Luxembourg since 2023.",
+        "pres2": "One mission",
+        "pres2body":"We drive capital growth with innovative management, ensuring performance independant of market fluctuations.",
+        "pres3": "Discretionary Management & Advisory Services 3.0",
+        "pres3body":"At Heroics, we envision the future of discretionary management & advisory services 3.0, where digital tools drive efficiency and reshape traditional paradigms.",
+        "pres4": "An Exclusive Partner Club",
+        "pres4body":"A community of visionary entrepreneurs committed to mutual enrichment and sustainable growth.",
+        "pres5": "Commitment to Investors",
+        "pres5body":"Our commitment to investors is not just about managing assets; it's about breathing life into our strategies, passionately pursuing results and continuous improvement.",
+        "pres6": "Curiosity",
+        "pres6body":"Like our investors, we embrace curiosity, track trends, adapt to new landscapes, innovate collaboratively, and thrive on learning and evolution."
+    },
+    "footer":{
+        "bottomPageTitle": "Discover More About Heroics Capital",
+        "followUs": "Follow Us",
+        "copyright": "Heroics Capital Partners. All rights reserved.",
+        "paul": "Website made by Paul Zamanian, Click for LinkedIn",
+        "matthieu": "Updated and maintained by Matthieu Vichet, Click for LinkedIn"
+    },
+    "alternativeInvestment":{
+        "openHedge":
+            {
+                "title": "Open-End hedge funds",
+                "titleSection": "Multi-Asset Alternative Investment Fund",
+                "letterAnimation1Title": "Liquid and innovative financial instruments",
+                "letterAnimation1Text": ", providing strong agility in response to market conditions.",
+                "letterAnimation2Title": "Multi-asset strategies",
+                "letterAnimation2Text": ", designed to mitigate risk through diversification, ensuring a balanced portfolio that can withstand various market dynamics.",
+                "benefitsTitle": "Key benefits:",
+                "benefit1Title": "Agility : ",
+                "benefit2Title": "Diversification : ",
+                "benefit3Title": "Innovation : ",
+                "benefit1Text": "Use liquid financial instruments for quick adaptability.",
+                "benefit2Text": "Deploy multi-asset strategies to spread risk.",
+                "benefit3Text": "Access cutting-edge financial tools and techniques.",
+                "extractionTitle": "Performance Extraction",
+                "extractionText": "Our dedicated team continuously monitors and adjusts the portfolio to extract optimal performance, ensuring that your investments grow even in volatile markets."
+            },
+        "dedicatedFunds":{
+            "dedicatedFundsTitle": "Dedicated Funds",
+            "dedicatedFundsText": "Design your own Luxembourgish Alternative Investment Fund with our expert assistance. We offer bespoke solutions, allowing you to deploy a strategy tailored to your specific investment goals. Managed by our proficient quantitative and research team, your dedicated fund will benefit from our extensive market knowledge and advanced analytical capabilities.",
+            "dedicatedFundsQuestion": "Why Choose a Dedicated Fund?",
+            "dedicatedFundsReasonTitle1": "Customization : ",
+            "dedicatedFundsReasonText1": "Develop a fund that aligns perfectly with your investment strategy.",
+            "dedicatedFundsReasonTitle2": "Expert Management : ",
+            "dedicatedFundsReasonText2": "Our quantitative and research team ensures rigorous analysis and strategic oversight.",
+            "dedicatedFundsReasonTitle3": "Luxembourg Advantage : ",
+            "dedicatedFundsReasonText3": "Benefit from the robust regulatory framework and favorable investment environment of Luxembourg."
+        },
+        "stratAndAssetClass":
+            {
+                "stratAndAssetClassTitle": "Strategies and Asset Classes",
+                "text1": "Equities",
+                "text2": "Currencies",
+                "text3": "Commodities",
+                "text4": "Precious Metals",
+                "text5": "Rates & Credits",
+                "centerLabel": "Asset Classes"
+            },
+        "cardStrategies":
+            {
+                "card1Title": "Systematic Options Strategies",
+                "card1Text": "Consistent and Reliable Returns",
+                "card2Title": "Exotic Options Strategies",
+                "card2Text": "Innovative Approaches for Unique Market Opportunities",
+                "card3Title": "Use of all listed & OTC markets",
+                "card3Text": "Maximizing Potential with Comprehensive Market Access",
+                "card4Title": "Leverage Optimization",
+                "card4Text": "Enhancing Gains through Strategic Leverage"
+            }
+    },
+    "familyPartners":
+        {
+            "title": "Family Partners",
+            "title1": "Advisory Services",
+            "text1": "Gain access to our dedicated and experienced investment advisors, who are committed to generate alpha while taking into account your unique risk appetite. Our advisory team provides personalized guidance and strategic insights to help you achieve your financial objectives.",
+            "elements1":
+                {
+                    "title1": "Expert Advice",
+                    "text1": "Leverage the knowledge and experience of seasoned investment professionals.",
+                    "title2": "Tailored Strategies",
+                    "text2": "Receive customized recommendations based on your specific risk profile and investment goals.",
+                    "title3": "Alpha Generation",
+                    "text3": "Focus on strategies designed to outperform the market and achieve superior returns."
+                },
+            "title2": "Portfolio Analysis",
+            "text2": "Benefit from Heroics Capital's expertise to consolidate your positions and aggregate all of your financial risks using smart digital tools and advanced technology. Maintaining a global overview of your entire portfolio at any time is essential for sustaining an optimal investment dynamic.",
+            "elements2":
+                {
+                    "title1": "Comprehensive Analysis",
+                    "text1": "Consolidate all your financial positions for a holistic view of your portfolio.",
+                    "title2": "Advanced Technology",
+                    "text2": "Utilize cutting-edge digital tools for accurate and efficient risk aggregation.",
+                    "title3": "Continuous Monitoring",
+                    "text3": "Ensure real-time oversight of your investments to maintain the best possible investment strategy."
+                },
+            "title3": "Risk Management",
+            "text3": "Effectively manage and mitigate risks with our robust risk management framework. Our approach combines rigorous analysis, innovative tools, and proactive strategies to protect your investments from market volatility and unforeseen events.",
+            "elements3":
+                {
+                    "title1": "Proactive Strategies",
+                    "text1": "Implement forward-thinking strategies to anticipate and mitigate potential risks.",
+                    "title2": "Advanced Analytics",
+                    "text2": "Use sophisticated tools and models to analyze and manage risk exposure.",
+                    "title3": "Continuous Oversight",
+                    "text3": "Maintain ongoing vigilance over your investments to ensure resilience against market fluctuations."
+                },
+            "title4": "Treasury Management",
+            "text4": "Optimize your cash management with our tailored treasury solutions. We provide strategic guidance and innovative tools to ensure efficient liquidity management, enhancing your ability to meet financial obligations and capitalize on investment opportunities.",
+            "elements4":
+                {
+                    "title1": "Efficient Liquidity Management",
+                    "text1": "Ensure optimal cash flow to meet operational needs and investment opportunities.",
+                    "title2": "Strategic Guidance",
+                    "text2": "Receive expert advice on cash management strategies to enhance financial stability.",
+                    "title3": "Innovative Tools",
+                    "text3": "Utilize advanced tools for accurate forecasting and management of treasury functions."
+                },
+            "title5": "Discretionary Portfolio Management & Actively Managed Certificates",
+            "text5": "Entrust your portfolio to our discretionary management services and actively managed certificates. Our expert team will manage your investments on your behalf, implementing strategic decisions to optimize returns while adhering to your risk tolerance and investment objectives.",
+            "elements5":
+                {
+                    "title1": "Expert Management",
+                    "text1": "Rely on our seasoned professionals to manage your portfolio with a focus on maximizing returns.",
+                    "title2": "Tailored Approach",
+                    "text2": "Benefit from a customized investment strategy aligned with your financial goals.",
+                    "title3": "Dynamic Adjustments",
+                    "text3": "Enjoy the flexibility of actively managed certificates, which adapt to market conditions to capitalize on opportunities."
+                }
+    },
+    "joinUs":
+        {
+            "greyCard":
+                {
+                    "title": "Contact Us !",
+                    "text": "Unlock Your Potential with Heroics Capital: Join Us Today!"
+                },
+            "whiteCard":
+                {
+                    "title": "Join Us!",
+                    "text1": "At Heroics, we value innovation, collaboration, and a passion for finance. We believe in creating an environment where talented individuals can thrive and make a difference.",
+                    "text2": "Whether you're an experienced professional or just starting your career, we welcome spontaneous applications from individuals who are enthusiastic about finance and eager to contribute to our dynamic startup environment.",
+                    "text3": "To submit your resume and motivations, please send an email to",
+                    "text4": ". Feel free to attach any additional documents or portfolios that showcase your skills and experiences.",
+                    "text5": "Additionally, you can connect with us on LinkedIn and send us a direct message. Visit our LinkedIn page ",
+                    "text6": " to stay updated on company news and job opportunities.",
+                    "text7": "We review all applications thoroughly and appreciate the time and effort you put into applying. Rest assured that every application is considered seriously, and we strive to provide timely feedback regardless of the outcome.",
+                    "text8": "We look forward to hearing from you and potentially welcoming you to our team!",
+                    "text9": "here"
+                    
+                }
+        },
+    "teamSkills":
+        {
+            "title": "Team Major Skills",
+            "card1Title": "Multi Asset Trading",
+            "card2Title": "Financial & Quant Engineering",
+            "card3Title": "Fundamental & Macro Research",
+            "card4Title": "Advanced Risk Management",
+            "card5Title": "Execution",
+            "card6Title": "IT Reasearch & Programming",
+            "card1Text": "Proven track record trading and managing vanilla & complex OTC / listed cross assets derivatives portfolio.",
+            "card2Text": "Strong competences for creating option stategies to optimize one right trade idea.",
+            "card3Text": "Top understanding of all macro topics, capabilities to analyze data and extract the relevant information to allow the team to define an investment strategy.",
+            "card4Text": "Proficiency in mathematical concepts related to the management of a portfolio of simple and complex derivative products.",
+            "card5Text": "The team complies with best execution policies for trading all types of assets & derivatives, and uses best digital market venues to trade, reducing execution risks.",
+            "card6Text": "Dedicated staff for IT Quant / research with high skills in programming.",
+            "teamProfileTitle": "Team Profiles",
+            "cyrilleRole": "CEO Heroics Capital Partners & Co-Founder",
+            "cyrilleDescription": "Cyrille Nahabedian is the Co-Founder and Chief Executive Officer at Heroics Capital Partners. With nearly 20 years of experience in European capital markets, Cyrille oversees the organization's overall activities. He ensures the implementation of the strategy and reports key outcomes to the shareholders. As CEO, he co-validates the company's investment decisions and recommendations, and actively engages with key clients. He also supervises the main recruitement and talent development programs within the organization.\nBefore founding Heroics Capital in January 2023, Cyrille held exeucitve positions at Crédit Agricole IWM Group, notably as Global Head of Capital Markets Divison, where he managed the global capital markets strategy and projects. He also led trading teams across Europe, specializing in derivatives. A graduate of Skema Business School with a Master's in Capital Markets Management and holding a Research Master's in Capital Markets from Paris I Sorbonne University, Cyrille continues to share his expertise as a lecturer for Professional Master's programs at the Ecole Supérieure de Commerce de Paris.",
+            "alexRole": "Head of Distribution and Co-Founder", 
+            "alexDescription": "As a Co-Founder and Partner at Heorics Capital, Alexandre Tramini harnesses his financial expertise ad entrepreneurial spirit to empower innovative startups and social enterprises. With over 17 years of experience in investment banking and wealth management, he has honed strong skills in corporate finance and capital markets, along with a profound understanding of the needs and challenges faced by high-net-worth clients and family offices.\nPreviously, Alexandre served as the European Head of Capital Markets Sales at CA Indosuez Wealth Management, where he led a team of sales professionals and advised clients on hedging and investment strategies across various asset classes. From 2014 to 2023, in collaboration with his partners, he launched a groundbreaking capital markets initiative with CA Indosuez Wealth Management, specializing in trading and advisory services. This initiative revitalized the private banking offering, addressing the unique needs of entrepreneurs, family offices and UHNWIs while enhancing synergies with investment banking solutions.\nAlexandre graduated from Kedge Business School and holds two postgradute degrees: a Master's in Financial Engineering and a Master's in Banking and Wealth Law.",
+            "joRole": "Head of Research, Trading & Co-Founder",
+            "joDescription": "Jonathan Niddam is the Co-Founder and Head of Research and Trading at Heroics Capital in Luxembourg. With over a decade of experience in finance, particularly in FX and stock options trading, he advises UHNW investors across markets such as precious metals, FX, equity and fixed income, while managing alternative portfolios.\nHe leads Heroics Capital's Research and Trading, applying advanced data techniques to enhanced investment strategies. his nearly ten-year tenure at Indosuez Wealth Management, specializing in OTC derivatives and technology integration, has shaped his approach to portfolio and risk management. His expertise allows him to deliver sophisticated, customized solutions that keep Heroics Capital's strategies agile, data-driven and innovative.",
+            "ilyasseRole": "Quant Trader & Researcher",
+            "ilyasseDescription": "As a Quantitative Trader, Ilyasse Tariq is responsible for developing advanced quantitative strategies, identifying alpha generation opportunities, and designing robust portfolio construction and risk management methods. In the past, he has held diverse positions, notably as an Exotic Equity Derivatives Trader at several major investment banks. In these roles, he specialized in managing complex financial products, including options, derivatives, and structured equity solutions, focusing on market volatility and risk hedging strategies. His expertise in exotic equity trading allowed him to navigate intricate market scenarios, optimizing trading performance.\nHe holds a degree in Telecommunication Engineering from the Ecole Nationale Supérieure Mines-Télécom Atlantique, as well as an MSc in Risk and Finance and a Master's in Financial Economics from EDHEC Business School, where he conducted his thesis under the supervision of Nikolaos Tessaromatis, Chairman of the Board at the Greek Pension Fund.",
+            "bakRole": "Head of Compliance",
+            "bakDescription": "Bak's professional career began as a Portfolio Manager and then as an Auditor at Crédit Agricole, one of France's leading banks. In this role, he was responsible for conducting thorough financial audits and assessments, which provided him with valuable insights into the banking and financial sectors. His analytical skills and attention to detail were pivotal during this phase of his career.\nFollowing his tenure at Crédit Agricole, Bak took various management roles at BGL BNP Paribas in Luxembourg. Here, he was involved in overseeing financial operations and team management, where he developed leadership skills and gained experience in navigating complex financial landscapes. His contributions helped streamline processes and improve operational efficiency within the organization.\nBak Khieng Ung also demonstrated his entrepreneurial spirit by establishing an individual enterprise that operated for 5 years, focusing on retail sales through automated vending and non-store retail activities. Based in Neuilly-Sur-Seine, this venture showcased his ability to identify market opportunities and adapt to changing consumer behaviors. The enterprise thrived until its closure in February 2016, marking a significant chapter in his professional journey.",
+            "pierreRole": "Chief Accountant Officer",
+            "pierreDescription": "Pierre Leonard is chief accountant at Heroics Capital Partners. With 25 years servicing international Real Estate and Private Equity clients with Luxembourg services providers, Pierre gained an extensive management, accounting and tax advisory background with expertise in Domiciliation, Corporate Management, Tax and Accounting, as well as sound knowledge of investment structures, Soparfi, SPF and Regulated entities. He holds a bachelor’s degree in Accounting and Management from HELMO, as well as degrees in Luxembourg Corporate Tax, and Luxembourg Corporate Law.  He is also a non-registered chartered accountant since 2006."
+
+        },
+        "login":
+        {
+            "text": "This service is available by exclusive invitation only.",
+            "username": "Username",
+            "password": "Password",
+            "signin": "Sign In"
+        },
+        "news": {
+            "latest_news": "Latest News",
+            "whats_new": "What's New",
+            "posts": [
+              {
+                "date": "Jun 2025",
+                "title": "Heroics Capital is hiring !",
+              
+                "content": "<p>Are you passionate about Python development, web apps, APIs, and eager to contribute to real tools used daily by finance, quant, and tech teams?<br/>Heroics Capital is looking for an intern to join its team in Luxembourg.<br/>🧠 Your mission<br/>&nbsp;&nbsp;&nbsp;&nbsp;• Develop and improve our internal apps (Streamlit, Pandas, Plotly)<br/>&nbsp;&nbsp;&nbsp;&nbsp;• Integrate business APIs<br/>&nbsp;&nbsp;&nbsp;&nbsp;• UI/UX revamp, file processing (Excel, JSON, PDF)<br/>&nbsp;&nbsp;&nbsp;&nbsp;• Participate in our transition to local LLMs (LLaMA, Mistral, etc.)<br/>🛠️ Tech stack: Python, Streamlit, REST APIs, SQLite/PostgreSQL, Ollama (bonus)<br/>🎓 Profile sought<br/>&nbsp;&nbsp;&nbsp;&nbsp;Engineering school or Master 2 student, curious, autonomous, comfortable with Python and interested in real-world digital challenges in finance.<br/>📍 Location: Luxembourg City<br/>📅 Duration: 4 to 6 months<br/>💼 Start: ASAP<br/>👉 Interested? Send your CV (and a GitHub link if you have one) to hr@heroics-capital.com<br/>&nbsp;&nbsp;&nbsp;&nbsp;A quick note on what you enjoy in Python development applied to business use cases is always appreciated!<br/>#internship #fintech #python #streamlit #development #luxembourg #LLM #techforfinance</p><a href='./../../../jobOffer/Offre de stage EN dev.pdf' download target='_blank' class='text-blue-600 underline'>📥 Download internship description</a>"
+              },      
+              {
+                "date": "May 2025",
+                "title": "Heroics Capital at the Monaco Grand Prix: Precision on and off the Track",
+                "content": "<p>Heroics Capital was proud to be on home ground as the Monaco Grand Prix returned to the legendary streets of Monte Carlo this May. With one of our desks based in Monaco, this iconic race weekend is not only a highlight on the Formula 1 calendar, but also a moment of strategic visibility for our team and partners.</p><p>Our presence at the Grand Prix is more than symbolic — it reflects the precision, performance, and pace that drive both motorsports and our investment strategies. Like F1 teams, we operate in high-stakes environments where real-time analysis, sharp execution, and continuous innovation are paramount.</p><p>We hosted select partners during the event to celebrate not just the race, but the shared values that connect elite sport and institutional finance: control, discipline, and a relentless pursuit of excellence.</p><p><a href='https://www.linkedin.com/posts/heroics-capital_heroicscapital-grandprixmonaco-performance-activity-7335982467700457472-8kTc?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAADBtcMcBnlaKkt-Of1qro225aGtBygxcF64&utm_campaign=copy_link' target='_blank' class='text-blue-600 underline'>📎 View the LinkedIn post</a></p>"
+              },
+              {
+                "date": "April 2025",
+                "title": "BFM Business - Paroles d'Entreprises",
+                 "content": "<p>In this special feature, Cyrille Nahabedian (CEO & Co-Founder) interview with BFM Business.</p><details class='mt-2' open><summary class='text-blue-600 underline cursor-pointer'>Watch the video</summary><div class='mt-4'><video width='100%' height='315' controls class='rounded-md shadow'><source src='/img/bfm_cyrille.mp4' type='video/mp4' />Your browser does not support the video tag.</video></div></details>"
+
+              },
+              {
+                "date": "February 2025",
+                "title": "Release of Heroics Aegis",
+                "content": "In July 2024, Heroics released a front-to-middle, compliance and board management platform — Heroics Aegis — for data centralization."
+              },              
+              {
+                "date": "October 2024",
+                "title": "The Fundamentals of the Structured Products Industry",
+                "content": "<a href='https://www.linkedin.com/posts/fahmi-ben-abdelkader-6111a64_luxembourg-ugcPost-7253125773098643456-AsBI?utm_source=share&utm_medium=member_desktop' target='_blank' rel='noopener noreferrer' class='text-blue-600 underline'>Cyril Nahabedian - CEO & Co-Founder of Heroics Capital Partners - participated in an enlightening seminar on structured products with ESCP Business School' students. Click to see more</a>"
+              },
+              {
+                "date": "July 2024",
+                "title": "First European hedge fund to trade a BTC over-the-counter derivative with Goldman Sachs Europe.",
+                "content": "In July 2024, Heroics Global Strategy SICAV-RAIF made a historic milestone by becoming the first European hedge fund to execute an OTC derivative product on Bitcoin with Goldman Sachs Europe. This transaction demonstrates the growing integration of digital assets into institutional investment strategies and paves the way for greater adoption of crypto-asset derivatives. This development highlights Heroics Global Strategy's pioneering role in financial sector innovation. Heroics Capital, the fund's parent company, stands out as a key player specializing in alternative investment strategies and innovative technologies."
+              },
+              {
+                "date": "July 2024",
+                "title": "Release of Heroics Sentinelle",
+                "content": "In July 2024, Heroics released a risk analytics platform - Heroics Sentinelle - for daily monitoring of positions and risks."
+              },
+              {
+                "date": "July 2024",
+                "title": "Launching of a new dedicated AMC",
+                "content": "July 2024 saw the introduction of a new Dedicated Actively Managed Certificate of EUR 7 million by Heroics, expanding its investment offering."
+              },
+              {
+                "date": "May 2024",
+                "title": "Launching of a new Dedicated Fund",
+                "content": "May 2024 saw the introduction of a new Dedicated Fund by Heroics, expanding its investment offerings."
+              },
+              {
+                "date": "May 2024",
+                "title": "Opening of the H Dynamic AMC",
+                "content": "In May 2024, Heroics announced the opening of the Dynamic Actively Managed Certificate, which aims to adapt to market changes and provide versatile investment opportunities."
+              },
+              {
+                "date": "June 2023",
+                "title": "Launching of the Heroics Volatility Hedge Fund",
+                "content": "In June 2023, Heroics launched its highly anticipated Hedge Fund, marking a significant milestone in the European financial sector."
+              }
+            ]
+          }
+        }

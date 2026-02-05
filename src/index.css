@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'PPMori';
+  src: url('./fonts/PPMori-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PPMori';
+  src: url('./fonts/PPMori-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'PPMori';
+  src: url(./fonts/PPMori-Italic.woff) format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PPMori';
+  src: url('./fonts/PPMori-Light.woff') format('woff');
+  font-weight: 200;
+  font-style: light;
+}
